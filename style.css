@@ -4,7 +4,7 @@
     --color-gray-ligth: #86848c;
     --color-gray-dark: #56555e;
     --color-dark: #27282f;
-    --color-primary: rgb(71, 7, 234);
+    --color-primary: rgb(139, 0, 0);
     --color-success: rgb(34, 202, 75);
     --color-danger: rgb(255, 67, 54);
     --color-warning: rgb(234, 181, 7);
@@ -355,12 +355,12 @@ main section.middle .cards .card:hover{
 }
 
 main section.middle .cards .card:nth-child(2){
-    background: linear-gradient(#808080, #A9A9A9);
+    background: linear-gradient(#5d70ff, #00BFFF);
     box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.2);
 }
 
 main section.middle .cards .card:nth-child(3){
-    background: linear-gradient(#5d70ff, #00BFFF);
+    background: linear-gradient(#FF0000, #B22222);
     box-shadow: 0 2rem 3rem var(--color-primary-ligth);
 }
 
